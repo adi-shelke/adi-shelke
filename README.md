@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adi</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
+- 🌱 I’m currently learning **Express, REST api's**
+
 - 💬 Ask me about **React, MongoDB**
 
 - 📫 How to reach me **shelkeadinath3@gmail.com**
