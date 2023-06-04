@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adi</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-- 👩‍💻 I'm currently working on a [social media app](https://github.com/adi-shelke/Friendme)
+- 👩‍💻 I'm currently working on a [Chat App](https://github.com/adi-shelke/TalkTime)
 
 - 🌱 I’m currently learning **Express, REST api's**
 
